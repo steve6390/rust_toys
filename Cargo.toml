@@ -1,0 +1,4 @@
+[package]
+name = "letter_count"
+version = "0.1.0"
+authors = ["srking"]
